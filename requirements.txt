@@ -1,0 +1,6 @@
+# CSV List Parser - Requirements
+# This project uses only Python standard library
+# No external dependencies required
+
+# For development/testing (optional):
+# pytest>=7.0.0  # Alternative test runner
