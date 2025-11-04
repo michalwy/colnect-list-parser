@@ -208,3 +208,4 @@ __marimo__/
 
 # Example output files
 examples/output*.csv
+examples/example*.csv
